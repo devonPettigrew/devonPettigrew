@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @devonPettigrew
-- 👀 I’m interested in ...Cybersercurity profession, Blockchain Development and Social Media Production
+- 👋 Hi, I’m Vaughn@devonPettigrew
+- 👀 I’m interested in ...Becoming a Cybersercurity Professional, Blockchain Development and Social Media Production
 - 🌱 I’m currently learning ...HTML5/CSS3 and studying for CompTIA Network+ Certification
 - 💞️ I’m looking to collaborate on ...Web Development and Social Media Influencing
 - 📫 How to reach me ...on here I guess for now, oh I just moved to Japan..
