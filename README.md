@@ -27,7 +27,7 @@ I’ll be launching a **LinkedIN Newsletter** focusing on:
 - AI’s role in global professional standards.
 
 ### 📫 Connect with Me
-- **LinkedIn:** [Your Profile Link]
+- **LinkedIn:*https://www.linkedin.com/in/devonhpettigrew*
 - **Newsletter:*Cyber Security and Integrated Resorts* 
 - **Current Focus:**  AI Educational Strategy
 
